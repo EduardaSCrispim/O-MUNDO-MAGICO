@@ -1,0 +1,2 @@
+ID_antena,Bytes_Sent,Bytes_Recv,Active_conn,CPU_usage,RAM_usage,Throughput_Sent_Mbps,Throughput_Recv_Mbps,status_carga,timestamp,Active_sessions,Dropped_packets,top_blocked_ip,Firewall_CPU_usage,Firewall_RAM_usage,Firewall_Bytes_Sent,Firewall_Bytes_Recv
+AP03,140254483,569232880,10,3.8,65.4,0.03,0.13,Normal,2026-10-05 18:00:02,103,57,192.168.0.137,4.2,65.4,140259040,569365824

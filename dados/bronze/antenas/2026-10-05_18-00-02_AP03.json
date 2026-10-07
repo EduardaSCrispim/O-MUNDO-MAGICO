@@ -1,0 +1,9 @@
+{
+    "ID_antena": "AP03",
+    "Bytes_Sent": 140254483,
+    "Bytes_Recv": 569232880,
+    "Active_conn": 10,
+    "CPU_usage": 3.8,
+    "RAM_usage": 65.4,
+    "timestamp": "2026-10-05 18:00:02"
+}

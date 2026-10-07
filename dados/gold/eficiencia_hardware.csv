@@ -1,0 +1,5 @@
+ID_antena,Bytes_Sent,Bytes_Recv,Active_conn,CPU_usage,RAM_usage,Throughput_Sent_Mbps,Throughput_Recv_Mbps,status_carga,timestamp,Active_sessions,Dropped_packets,top_blocked_ip,Firewall_CPU_usage,Firewall_RAM_usage,Firewall_Bytes_Sent,Firewall_Bytes_Recv,eficiencia_hardware
+AP03,140254483,569232880,10,3.8,65.4,0.03,0.13,Normal,2026-10-05 18:00:02,103,57,192.168.0.137,4.2,65.4,140259040,569365824,0.0079
+AP04,140258706,569299918,37,3.9,65.4,0.03,0.13,Normal,2026-10-05 18:00:03,103,57,192.168.0.137,4.2,65.4,140259040,569365824,0.0077
+AP01,140246267,569156438,47,8.9,65.4,0.03,0.13,Alta densidade,2026-10-05 18:00:00,103,57,192.168.0.137,4.2,65.4,140259040,569365824,0.0034
+AP02,140246267,569184356,21,13.2,65.4,0.03,0.13,Normal,2026-10-05 18:00:01,103,57,192.168.0.137,4.2,65.4,140259040,569365824,0.0023

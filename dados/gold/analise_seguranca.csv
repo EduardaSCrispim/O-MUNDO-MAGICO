@@ -1,0 +1,5 @@
+ID_antena,Dropped_packets,top_blocked_ip,Active_sessions
+AP03,57,192.168.0.137,103
+AP04,57,192.168.0.137,103
+AP01,57,192.168.0.137,103
+AP02,57,192.168.0.137,103
